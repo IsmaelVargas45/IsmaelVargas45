@@ -15,11 +15,6 @@
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación Web** en la Universidad Nacional de San Juan. Me gusta construir aplicaciones completas, del frontend al backend, y aprender haciendo proyectos reales.
 
-- 🔭 Trabajando con **Laravel, PHP, React y JavaScript**
-- 🌱 Aprendiendo más sobre arquitectura backend y buenas prácticas
-- 🤖 Me interesa integrar **IA** en mis aplicaciones
-- 🇬🇧 Mejorando mi inglés (nivel básico)
-- 💼 Busco mi **primera oportunidad como Desarrollador Web Junior**
 
 ---
 

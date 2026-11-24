@@ -4,7 +4,7 @@
 
 **Estudiante de Programación Web (UNSJ) · San Juan, Argentina 🇦🇷**
 
-![Disponible para trabajo remoto](https://img.shields.io/badge/Disponible-trabajo%20remoto-2ea44f?style=for-the-badge)
+![Disponible en cualquier modalidad](https://img.shields.io/badge/Disponible-remoto%20%C2%B7%20h%C3%ADbrido%20%C2%B7%20presencial-2ea44f?style=for-the-badge)
 ![Buscando primer empleo](https://img.shields.io/badge/Buscando-primera%20oportunidad%20Jr-2457A6?style=for-the-badge)
 
 </div>
@@ -14,7 +14,6 @@
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación Web** en la Universidad Nacional de San Juan. Me gusta construir aplicaciones completas, del frontend al backend, y aprender haciendo proyectos reales.
-
 
 ---
 
@@ -45,8 +44,6 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación Web** en la Un
 | ✅ **Administrador de tareas** | Crear, editar y organizar tareas | C# · .NET |
 
 > 📂 Mirá todos mis repositorios en la pestaña **Repositories** de mi perfil.
-
----
 
 
 ## 📫 Contacto
